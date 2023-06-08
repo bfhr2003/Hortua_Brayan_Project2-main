@@ -1,0 +1,67 @@
+Brand: Orbitz
+
+Measurements:
+  1.Mobile:
+    * Header: 333 x 64px 
+    * Main Image: 333px x 163px
+    * Main Navigation: 127px x 64px
+    * Logo:196px x 64px
+    * About Us Section: 333px x 245px
+    * Images (Homepage): 333px x 140px
+    * Text Area (Homepage): 333px x 64px
+    * Text Area (Products page): 333px x 140px 
+    * Contact Form: 333px x 348px
+    * Footer: 375px x 125px
+
+  2.Tablet:
+    * Header: 728 x 120px 
+    * Main Image: 725px x 256px
+    * Main Navigation: 410px x 64px
+    * Logo: 293px x 64px
+    * About Us Section: 726px x 308px
+    * Images (Homepage): 355px x 140px
+    * Text Area (Homepage): 728px x 120px
+    * Text Area (Products page): 355px x 70px
+    * Video (Homepage): 355px x 500px
+    * Contact Form: 350px x 500px
+    * Footer: 768px x 125px
+
+
+  3.Desktop:
+    * Header: 350 x 50px 
+    * Main Image: 725px x 256px
+    * Main Navigation: 867px x 64px
+    * Logo: 279px x 64px
+    * About Us Section: 1161px x 308px
+    * Images (Homepage): 279px x 139px
+    * Text Area (Homepage): 1161px x 130px
+    * Text Area (Products page): 377px x 70px
+    * Video (Homepage): 475px x 500px
+    * Contact Form: 671px x 500px
+    * Flavours Section (Products Page): 1161px x 296px
+     * Footer: 1200px x 125px
+
+
+Font:   
+     A. Koho => Regular 400
+             => Medium 500
+             => Bold 700
+
+     B. Open Sans => Light 300
+                   => Regular 400
+                   => Medium 500
+                   => Semibold 600
+                   => Bold 700
+                   => Extrabold 800
+
+Website Colors: => #83FA16
+                => #47DE65
+                => #5AF4D2
+                => #47AADE
+                => #5265FF
+
+
+
+
+
+
